@@ -4,6 +4,7 @@ Curiousity driven, Passionate and Enthusiastic about the latest tech
 
 <img src="./gifs/MonochromeCity_Source_Adafruit.gif?raw=true" width="200px" align="right">
 
+<br> <br> <br>
 
 <div align="center">
   <img src="https://github-readme-stats-vercel-sable.vercel.app/api?username=Wayrion&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
