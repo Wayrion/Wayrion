@@ -10,5 +10,6 @@ I'm an 18 year old software developer with a strong background in Computer Scien
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wayrion&count_private=true&show_icons=true&theme=dark&bg_color=0D1117&text_color=61d9fa&title_color=61d9fa" alt="Wayrion's github stats" />
   <img src="https://streak-stats.demolab.com?user=Wayrion&theme=react&background=0D1117" />
+  <br>
   <img src="https://github-readme-stats-vercel-sable.vercel.app/api/top-langs?username=Wayrion&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
